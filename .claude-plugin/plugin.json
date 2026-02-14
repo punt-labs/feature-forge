@@ -1,0 +1,8 @@
+{
+  "name": "feature-forge",
+  "description": "Multi-agent feature development from observation to implementation using hive-mind consensus, SPARC planning, and beads issue tracking",
+  "author": {
+    "name": "jfreeman",
+    "email": "jmf@pobox.com"
+  }
+}
